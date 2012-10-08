@@ -1,0 +1,32 @@
+Altai Private Cloud for Developers TM
+=====================================
+
+Altai Private Cloud for Developers gives enterprise developers the
+infrastructure they need to release software faster, in smaller increments and
+fewer bugs. It combines the best technologies from the OpenStack community with
+extensions developed by Grid Dynamics to create a cloud optimized for the needs
+of developers.
+
+KEY FEATURES
+
+    * 100% open-source
+    * Simple to set-up & administer
+    * Scalable to 1,000x of VMs
+    * Out-of-the-box monitoring
+    * Fast spin-up & tear-down of environments
+    * Self-service dashboard
+    * Project-based metering & billing
+    * Configurable usage fees for charge-backs
+
+
+Installation guide:
+
+http://www.griddynamics.com/solutions/altai-private-cloud-for-developers/release/installation/
+
+
+P.S.
+
+Altai - Mongolian for Golden Mountain - is a mountain range near the
+intersection of Russia, China, Mongolia, and Kazakhstan, where large deposits of
+precious metals are found.
+

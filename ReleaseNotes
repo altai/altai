@@ -1,0 +1,96 @@
+Overview
+========
+
+Altai Private Cloud for Developers is private cloud solution designed
+specifically for development and QA organizations. Unless otherwise noted, all
+issues listed below apply to Internet Explorer 8 on every supported operating
+system.
+
+
+Version
+=======
+
+This release notes describes the high level changes for the release version 1.0,
+and was made publicly available on September 14th, 2012.
+
+
+System Requirements
+===================
+
+The system requirements for the Master and the Compute Nodes are different,
+since they perform significantly different tasks. For the Master Node, where the
+services resides, you will need the following setup:
+
+    * Processor: 64bit x86
+    * RAM: 12GB or more
+    * Disk: 500GB or more
+    * Network Interface: 1 GB Network Interface
+    * Operating System: CentOS 6.2 or above
+    * Single root / mount (meaning /usr, /tmp, etc are not in separate
+      filesystems)
+
+For the Compute Nodes, or nodes with both Master and Compute Nodes installed on
+the same machine:
+
+    * Processor: 64bit x86 with VT (VT must be enabled in BIOS)
+    * RAM: 32GB or more
+    * Disk: 500GB or more
+    * Network Interface: 1 GB Network Interface
+    * Operating System: CentOS 6.2 or above
+    * Single root / mount (meaning /usr, /tmp, etc are not in separate
+      filesystems)
+
+And from the infrastructure and network, please make sure you have the
+following:
+
+    * Network Switch with VLAN support (802.1q)
+    * DHCP services
+    * All servers must be able to access (outbound) internet during
+      installation
+
+
+Download
+========
+
+To download this release, please following the instructions on the download
+page.
+
+
+Enhancements
+============
+
+The following features are added to this release of the distribution:
+
+    * Out-of-the-box monitoring
+    * Self-service dashboard for administrators, development managers and
+      engineers
+    * Optimized for fast spin-up and tear-down of test environments
+    * Project-based metering and interdepartmental billing
+    * Configurable usage fees for internal charge-backs
+    * Integration with application deployment tools
+
+
+Bug Fixes
+=========
+
+This is the initial release and therefore no prior publicly
+
+
+Known Issues
+============
+
+The following lists discovered issues with their proposed resolutions and
+workarounds:
+
+Issue ID:INT-OSCORE-134	
+Description: Compute node failed to start if Master Node is not already running
+and started 	
+Resolution: Start or restart Compute Node after Master Node is available
+
+ 
+Compatibility
+=============
+
+This release is our initial release, and hence there are no migration scripts or
+steps. The installation expects a cleanly installed operating system as the base.
+

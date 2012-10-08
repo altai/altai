@@ -1,0 +1,16 @@
+[altai-main-@version@]
+name=Altai Packages @version@ - $basearch
+baseurl=$altai_@urlkind@/@path@/centos6/main/
+failovermethod=priority
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-altai
+
+[altai-deps-@version@]
+name=Altai Deps Packages @version@ - $basearch
+baseurl=$altai_@urlkind@/@path@/centos6/deps/
+failovermethod=priority
+enabled=1
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-6 file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-6 file:///etc/pki/rpm-gpg/RPM-GPG-KEY-altai
+
