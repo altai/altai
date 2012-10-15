@@ -31,9 +31,6 @@
 [submodule "repos/altai/nova-networks-ext"]
 	path = repos/altai/nova-networks-ext
 	url = ../nova-networks-ext.git
-[submodule "repos/altai/odb"]
-	path = repos/altai/odb
-	url = ../odb.git
 [submodule "repos/altai/python-openstackclient-base"]
 	path = repos/altai/python-openstackclient-base
 	url = ../python-openstackclient-base.git
@@ -64,3 +61,6 @@
 [submodule "repos/openstack/python-novaclient"]
 	path = repos/openstack/python-novaclient
 	url = ../python-novaclient.git
+[submodule "deps"]
+	path = deps
+	url = ../deps.git
