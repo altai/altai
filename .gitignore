@@ -1,0 +1,8 @@
+.ayer
+*.py[co]
+.idea
+*.swp
+*~
+build
+dist
+*.egg-info

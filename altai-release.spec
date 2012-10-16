@@ -1,6 +1,6 @@
 Name:           altai-release
-Version:        1.0.1
-Release:        v1.0.1%{?dist}
+Version:        1.0.2
+Release:        0%{?dist}
 Summary:        Altai packages for Enterprise Linux repository configuration
 
 Group:          System Environment/Base

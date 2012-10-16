@@ -61,6 +61,3 @@
 [submodule "repos/openstack/python-novaclient"]
 	path = repos/openstack/python-novaclient
 	url = ../python-novaclient.git
-[submodule "deps"]
-	path = deps
-	url = ../deps.git
