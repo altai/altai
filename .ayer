@@ -1,0 +1,2 @@
+YUM_REPO_BASEURL_DEV=http://osc-build.vm.griddynamics.net/altai
+JENKINS_BASEURL=http://osc-build.vm.griddynamics.net:8080
