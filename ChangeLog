@@ -1,5 +1,15 @@
+2012-11-14 Update focus, focus-selenium-tests, and altai-installer:
+altai-installer-1.0.2:
+    - Added passing of variable 'master-configured-hostname' to correct configuration file.
+focus-1.0:
+    - Mark substituted JavaScript as safe in templates
+    - Use UTC to compare now and the moment of last compute status update fetched from Nova DB.
+    - User role became default for invitations
+    - Showing links to VNC and log only for VMs in state "ACTIVE"
+    - New config var CONFIGURED_HOSTNAME for links in emails
 
-2012-10-07 Make openstack-nova-network require dnsmasq (fixes: altai-29)
+2012-11-07 Make openstack-nova-network require dnsmasq (fixes: altai-29)
+
 2012-11-06 Update qemu to 0.15.0 (fixes altai-12)
 
 2012-09-14 Initial release V1.0.0
