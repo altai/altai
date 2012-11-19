@@ -61,3 +61,6 @@
 [submodule "repos/openstack/python-novaclient"]
 	path = repos/openstack/python-novaclient
 	url = ../python-novaclient.git
+[submodule "repos/altai/altai-api"]
+	path = repos/altai/altai-api
+	url = ../altai-api.git
