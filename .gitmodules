@@ -64,3 +64,6 @@
 [submodule "repos/altai/altai-api"]
 	path = repos/altai/altai-api
 	url = ../altai-api.git
+[submodule "repos/altai/keystone-ldap"]
+	path = repos/altai/keystone-ldap
+	url = ../keystone-ldap.git
