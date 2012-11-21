@@ -1,3 +1,14 @@
+2012-11-21 Update focus and keystone
+focus-1.0:
+    - Disabling submit button after click
+    - Preventing project with running VMs to be deleted
+    - Fix popdown unability to show selection dialog after previous one
+      was cancelled
+    - Fix image upload messages late appearance bug
+    - Fix network deletion misleading message bug
+keystone-2012.1:
+    - Fix project deletion bug
+
 2012-11-14 Update focus, focus-selenium-tests, and altai-installer:
 altai-installer-1.0.2:
     - Added passing of variable 'master-configured-hostname' to correct configuration file.
