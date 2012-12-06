@@ -67,3 +67,6 @@
 [submodule "repos/altai/keystone-ldap"]
 	path = repos/altai/keystone-ldap
 	url = ../keystone-ldap.git
+[submodule "repos/altai/focus2"]
+	path = repos/altai/focus2
+	url = ../focus2.git
