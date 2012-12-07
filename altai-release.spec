@@ -1,5 +1,5 @@
 Name:           altai-release
-Version:        1.0.2
+Version:        1.1
 Release:        0%{?dist}
 Summary:        Altai packages for Enterprise Linux repository configuration
 
@@ -51,3 +51,5 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
+* Fri Dec 07 2012 Alessio Ababilov <aababilov@griddynamics.com> - 1.1-0
+- Update version
