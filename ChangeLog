@@ -1,3 +1,12 @@
+2012-12-25 Update focus
+focus-1.0:
+    - Send email on Focus URL changes
+    - Protect VMs from unauthorized access (Issue: altai-76)
+    - Custom StopValidation exception (Issue: altai-56)
+    - Make upload dialog appear in Chrome and Safari under Mac OS X (Issue: altai-54)
+    - Turn CSRF off (Issue: altai-82)
+    - Fancy error message (Issue: altai-48)
+
 2012-12-24 Allow resize to the same host in nova
 altai-installer-1.1:
     - Allow resize to the same host in nova
