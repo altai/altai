@@ -1,3 +1,14 @@
+2012-12-28 Update altai-installer, focus, and nova
+altai-installer-1.1:
+    - Update packages during Altai update procedure
+    - Rename master-configured-hostname to master-configured-url (Issue: altai-79)
+    - Add selinux status verification to installation (Issue: altai-67)
+focus-1.0:
+    - Change invitation email text (Issue: altai-52)
+    - Rename CONFIGURED_HOSTNAME to CONFIGURED_URL (Issue: altai-79)
+nova-2012.1.2:
+    - Add nova-common dependency on bridge-utils (Issue: altai-96)
+
 2012-12-25 Update focus
 focus-1.0:
     - Send email on Focus URL changes
