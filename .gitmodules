@@ -3,7 +3,7 @@
 	url = ../altai-installer.git
 [submodule "repos/altai/altai-installer-test"]
 	path = repos/altai/altai-installer-test
-	url = ../altai-installer-test.git
+	url = ../altai-installer-test
 [submodule "repos/altai/bunch"]
 	path = repos/altai/bunch
 	url = ../bunch.git
