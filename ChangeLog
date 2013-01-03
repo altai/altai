@@ -1,3 +1,8 @@
+2013-01-03 Update altai-installer
+altai-installer-1.1:
+    - Check TCP and UDP ports and projects-interface before installation
+      (Issue: altai-68, altai-73)
+
 2012-12-28 Update focus
 focus-1.0:
     - Do not allow user to revoke his own admin permissions (Issue: altai-74)
