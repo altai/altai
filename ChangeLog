@@ -1,3 +1,12 @@
+2013-01-10 Give VMs right hostnames via DHCP (Issue: altai-95)
+altai-installer-1.1:
+    - Use NovaDnsNetworkDriver (Issue: altai-95)
+nova-dns-0.3.1:
+    - Add openstack-nova-common dependency
+    - Version bump
+    - Add nova network driver
+nova-2012.1.2:
+    - Allow to pass custom dhcp domain to dnsmasq
 
 2013-01-10: Update nova
 nova-2012.1.2:
