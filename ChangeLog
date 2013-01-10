@@ -1,3 +1,8 @@
+
+2013-01-10: Update nova
+nova-2012.1.2:
+    - When quota is exceeded, raise exception with verbose message (Issue: altai-101)
+
 2013-01-03 Update altai-installer
 altai-installer-1.1:
     - Check TCP and UDP ports and projects-interface before installation
