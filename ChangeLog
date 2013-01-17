@@ -1,3 +1,10 @@
+2013-01-17 Prevent RAM overselling
+altai-installer-1.1:
+    - Prevent RAM overselling (Issue: altai-106)
+focus-1.0:
+    - Add VM status description to VM details page
+    - Better notification on virtual machine spawn failures
+
 2013-01-16 Update keystone for fix in user deletion
 keystone-2012.1:
     - Flush tenant membership deletion before user deletion
