@@ -1,3 +1,7 @@
+2013-01-21 Update keystone
+keystone:
+    - Return Unauthorized instead of server error (Issue: altai-112)
+
 2013-01-18 Meaningful error message for authorization error
 focus-1.0:
     - Meaningful error message for authorization error (Issue: altai-46)
