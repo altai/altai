@@ -1,5 +1,9 @@
+2013-01-21 Update focus
+focus-1.0:
+    - Added fallback value for empty CONFIGURED_URL
+
 2013-01-21 Update keystone
-keystone:
+keystone-2012.1:
     - Return Unauthorized instead of server error (Issue: altai-112)
 
 2013-01-18 Meaningful error message for authorization error
