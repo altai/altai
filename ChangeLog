@@ -1,3 +1,7 @@
+2013-01-25 Update altai and altai-installer
+altai-installer-1.1:
+    - Add system ip address checks in installer (Issue: altai-116)
+
 2013-01-24 Update nova-dns
 nova-dns-0.3.1:
     - Add support for stop and start_instance (Issue: altai-108)
