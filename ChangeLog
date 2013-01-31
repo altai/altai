@@ -1,3 +1,13 @@
+2013-01-31 Update altai, altai-installer, nova-userinfo-ext, and python-openstackclient-base
+altai-1.1:
+    - Add Nova UserInfo extention
+altai-installer-1.1:
+    - Add Nova UserInfo extension
+nova-userinfo-ext-1.0:
+    - Initial implementation
+python-openstackclient-base-2012.1:
+    - Support for user's keypairs provided by gd-userinfo extention
+
 2013-01-25 Update altai and altai-installer
 altai-installer-1.1:
     - Add system ip address checks in installer (Issue: altai-116)
