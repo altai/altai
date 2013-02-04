@@ -1,3 +1,7 @@
+2013-02-18 Update altai-installer
+altai-installer-1.1:
+    - Live-migration support
+
 2013-02-14 Update altai-installer-test
 altai-installer-test:
     - Change target IP for snmpset
