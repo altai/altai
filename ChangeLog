@@ -1,3 +1,9 @@
+2013-02-05 Update focus
+focus-1.0:
+    - Fixed JSON export function (Issue: altai-119)
+    - Fixed error in modal windows for delete confirm (Issue: altai-100)
+    - Changed user ids to user names (Issue: altai-123)
+
 2013-01-31 Update altai, altai-installer, nova-userinfo-ext, and python-openstackclient-base
 altai-1.1:
     - Add Nova UserInfo extention
