@@ -1,3 +1,9 @@
+2013-02-06 Update altai-installer and focus
+altai-installer-1.1:
+    - Added LDAP flags to Focus local_settings.py (Issue: altai-118)
+focus-1.0:
+    - Enhancements to UI integration with AD (Issue: altai-118)
+
 2013-02-05 Update focus
 focus-1.0:
     - Fixed JSON export function (Issue: altai-119)
