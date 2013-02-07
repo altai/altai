@@ -1,3 +1,41 @@
+2013-02-07 Update bunch, instance-notifier, keystone-ldap, nova-billing, nova-dns, nova-fping-ext, nova-networks-ext, nova-userinfo-ext, python-openstackclient-base, python-zabbix-api, zabbix-notifier, glance, keystone, noVNC, nova, python-glanceclient, python-keystoneclient, and python-novaclient
+bunch-0.2.0:
+    - Require sphinx 1.0 to build documentation
+instance-notifier-0.1:
+    - Delete unused with_doc from spec
+keystone-ldap-1.0:
+    - Delete unused with_doc from spec
+nova-billing-2.1.0:
+    - Require sphinx 1.0 to build documentation
+nova-dns-0.3.1:
+    - Require sphinx 1.0 to build documentation
+nova-fping-ext-1.0:
+    - Delete unused with_doc from spec
+nova-networks-ext-1.0:
+    - Delete unused with_doc from spec
+nova-userinfo-ext-1.0:
+    - Delete unused with_doc from spec
+python-openstackclient-base-2012.1:
+    - Drop docs package
+python-zabbix-api-0.1:
+    - Delete unused with_doc from spec
+zabbix-notifier-0.1:
+    - Delete unused with_doc from spec
+glance-2012.1:
+    - Require sphinx 1.0 to build documentation
+keystone-2012.1:
+    - Require sphinx 1.0 to build documentation
+noVNC-2011.3:
+    - Require sphinx 1.0 to build documentation
+nova-2012.1.2:
+    - Require sphinx 1.0 to build documentation
+python-glanceclient-2012.1:
+    - Require sphinx 1.0 to build documentation
+python-keystoneclient-2012.1:
+    - Require sphinx 1.0 to build documentation
+python-novaclient-2012.1.2:
+    - Require sphinx 1.0 to build documentation
+
 2013-02-07 Update nova
 nova-2012.1.2:
     - Fix deletion of instances from disassociated networks
