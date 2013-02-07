@@ -1,3 +1,7 @@
+2013-02-07 Update nova
+nova-2012.1.2:
+    - Fix deletion of instances from disassociated networks
+
 2013-02-01 Update nova-userinfo-ext
 nova-userinfo-ext-1.0:
     - Remove TODOs about authorization
