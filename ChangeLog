@@ -1,3 +1,8 @@
+2013-02-01 Update nova-userinfo-ext
+nova-userinfo-ext-1.0:
+    - Remove TODOs about authorization
+    - Keypairs: create key pair with correct user id
+
 2013-02-07 Update python-openstackclient-base
 python-openstackclient-base-2012.1:
     - Allow clients with unbound tokens access public identity API
