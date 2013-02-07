@@ -1,3 +1,8 @@
+2013-02-07 Update python-openstackclient-base
+python-openstackclient-base-2012.1:
+    - Allow clients with unbound tokens access public identity API
+    - Add region_name parameter to client.get_endpoints
+
 2013-02-06 Update altai-installer and focus
 altai-installer-1.1:
     - Added LDAP flags to Focus local_settings.py (Issue: altai-118)
