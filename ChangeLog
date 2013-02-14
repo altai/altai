@@ -1,3 +1,7 @@
+2013-02-14 Update altai-installer-test
+altai-installer-test:
+    - Change target IP for snmpset
+
 2013-02-07 Update bunch, instance-notifier, keystone-ldap, nova-billing, nova-dns, nova-fping-ext, nova-networks-ext, nova-userinfo-ext, python-openstackclient-base, python-zabbix-api, zabbix-notifier, glance, keystone, noVNC, nova, python-glanceclient, python-keystoneclient, and python-novaclient
 bunch-0.2.0:
     - Require sphinx 1.0 to build documentation
