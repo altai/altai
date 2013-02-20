@@ -1,3 +1,9 @@
+2013-03-06 Update altai-installer and nova
+altai-installer-1.1:
+    - nova.conf: let guestfs guess root partition
+nova-2012.1.2:
+    - support a configurable libvirt injection partition
+
 2013-02-18 Update altai-installer
 altai-installer-1.1:
     - Live-migration support
