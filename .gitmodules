@@ -73,3 +73,6 @@
 [submodule "repos/altai/nova-userinfo-ext"]
 	path = repos/altai/nova-userinfo-ext
 	url = ../nova-userinfo-ext
+[submodule "repos/altai/nova-db-clean"]
+	path = repos/altai/nova-db-clean
+	url = ../nova-db-clean

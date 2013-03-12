@@ -1,3 +1,9 @@
+2013-03-12 Update altai-installer and nova-db-clean
+altai-installer-1.1:
+    - Install nova-db-clean
+nova-db-clean-0.1:
+    - Initial release
+
 2013-03-06 Update altai-installer and nova
 altai-installer-1.1:
     - nova.conf: let guestfs guess root partition
