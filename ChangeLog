@@ -1,3 +1,9 @@
+2013-03-13 Update altai-installer-test
+altai-installer-test:
+    - Do not check odb
+    - Drop legacy environment variables
+    - Always install altai-installer from RPM
+
 2013-03-12 Update altai-installer and nova-db-clean
 altai-installer-1.1:
     - Install nova-db-clean
