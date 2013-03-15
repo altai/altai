@@ -1,3 +1,7 @@
+2013-03-15 Update altai-installer
+altai-installer-1.1.1:
+    - Update version to 1.1.1
+
 2013-03-13 Update altai-installer-test
 altai-installer-test:
     - Do not check odb
