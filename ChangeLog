@@ -1,3 +1,7 @@
+2013-03-18 Update nova-dns
+nova-dns-0.3.1:
+    - Add missing method to network driver. (Issue: altai-131)
+
 2013-03-18 Update altai-installer
 altai-installer-1.1.1:
     - Fix vnc security problem (Issue: altai-138)
