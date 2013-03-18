@@ -1,3 +1,7 @@
+2013-03-18 Update nova
+nova-2012.1.2:
+    - Install all init scripts
+
 2013-03-18 Update nova-dns
 nova-dns-0.3.1:
     - Add missing method to network driver. (Issue: altai-131)
