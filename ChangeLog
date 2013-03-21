@@ -1,3 +1,7 @@
+2013-03-21 Update nova-dns
+nova-dns-0.3.1:
+    - LSB compatible init script
+
 2013-03-18 Update nova
 nova-2012.1.2:
     - Install all init scripts
