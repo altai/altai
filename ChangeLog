@@ -1,3 +1,7 @@
+2013-03-25 Update focus
+focus-1.0:
+    - Show invites for non-admins
+
 2013-03-21 Update altai-installer
 altai-installer-1.1.1:
     - Support update from any older version (Issue: altai-137)
