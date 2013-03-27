@@ -14,6 +14,9 @@ BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 
 BuildArch:      noarch
 
+Requires:       yum-plugin-priorities
+
+
 %description
 This package contains the Altai packages for Enterprise Linux repository
 GPG key as well as configuration for yum and up2date.
