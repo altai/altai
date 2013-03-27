@@ -1,3 +1,7 @@
+2013-03-27 Update altai-installer
+altai-installer-1.1.1:
+    - Add config validator and add help to setup-auth (Issue: altai-142, altai-146)
+
 2013-03-26 Update altai-installer
 altai-installer-1.1.1:
     - Update nova.conf
