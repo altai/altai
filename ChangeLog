@@ -1,3 +1,9 @@
+2013-03-27 Update altai-installer and altai-installer-test
+altai-installer-1.1.1:
+    - Add python-argparse dependency
+altai-installer-test:
+    - Use yum to install release package
+
 2013-03-27 Update nova-dns
 nova-dns-0.3.2:
     - Correct adding records for NS servers on zone creation (Issue: altai-114)
