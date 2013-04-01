@@ -1,3 +1,10 @@
+2013-04-29 Update python-openstackclient-base and python-glanceclient
+python-openstackclient-base-2012.1:
+    - Add raw_request method to BaseClient
+python-glanceclient-2012.1:
+    - Revert "switch to openstackclient-base"
+    - Merge upstream version 0.5.1
+
 2013-04-26 Update focus
 focus-1.0:
     - Make project name a link to project page in case of ldap integration
