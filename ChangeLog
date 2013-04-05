@@ -1,8 +1,9 @@
 2013-04-05 Update altai and altai-installer
 altai-1.1.2:
-    - update version to 1.1.2
+    - Update version to 1.1.2
+    - Remove altai-updates repo.
 altai-installer-1.1.2:
-    - update version to 1.1.2
+    - Update version to 1.1.2
 
 2013-03-27 Update altai-installer and altai-installer-test
 altai-installer-1.1.1:
