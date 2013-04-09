@@ -1,3 +1,10 @@
+2013-04-10 Update altai-installer and nova
+altai-installer-1.1.2:
+    - Update: update to 1.1.2 with downgrading qemu
+    - devgrid::compute: don't restart iptables
+nova-2012.1.2:
+    - Force userspace implementation for virtio network (Issue: altai-15)
+
 2013-04-05 Update altai and altai-installer
 altai-1.1.2:
     - Update version to 1.1.2
