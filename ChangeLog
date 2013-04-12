@@ -1,3 +1,7 @@
+2013-04-12 Update altai-installer
+altai-installer-1.1.2:
+    - Add script to shutdown all the instances on this host
+
 2013-04-12 Update nova
 nova-2012.1.2:
     - Call plug_vifs() for all instances in init_host (Issue: altai-148)
