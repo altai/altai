@@ -1,3 +1,7 @@
+2013-04-15 Update altai-installer
+altai-installer-1.1.2:
+    - Explicitly disable qemu-kvm updates
+
 2013-04-12 Update altai-installer
 altai-installer-1.1.2:
     - Add script to shutdown all the instances on this host
