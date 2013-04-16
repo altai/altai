@@ -1,3 +1,8 @@
+2013-04-16 Update focus
+focus-1.0:
+    - Fix Cancel button on configured-hostname form (Issue: altai-88)
+    - Fix error message when inviting already invited user (Issue: altai-141)
+
 2013-04-16 Update altai-installer
 altai-installer-1.1.3:
     - Update version to 1.1.3
