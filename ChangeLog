@@ -1,3 +1,7 @@
+2013-04-16 Update altai-installer
+altai-installer-1.1.3:
+    - Update version to 1.1.3
+
 2013-04-15 Update altai-installer
 altai-installer-1.1.2:
     - Explicitly disable qemu-kvm updates

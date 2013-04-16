@@ -1,5 +1,5 @@
 Name:           altai-release
-Version:        1.1.2
+Version:        1.1.3
 Release:        0%{?dist}
 Summary:        Altai packages for Enterprise Linux repository configuration
 
