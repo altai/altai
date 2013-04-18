@@ -1,3 +1,11 @@
+2013-04-25 Update altai, altai-installer, and nova
+altai-installer-1.1.3:
+    - Set fixed_range to empty string by default
+    - Set resize options (Issue: altai-150)
+nova-2012.1.2:
+    - Make it possible to disable fixed_range-related iptables rules (Issue: altai-90)
+    - Add force_resize_to_same_host option (Issue: altai-150)
+
 2013-04-16 Update focus
 focus-1.0:
     - Fix Cancel button on configured-hostname form (Issue: altai-88)
