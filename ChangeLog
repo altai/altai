@@ -1,3 +1,24 @@
+2013-04-26 Update altai-installer and nova-dns
+altai-installer-1.1.3:
+    - nova.conf: Set dns_zone_address to master-ip-public (Issue: altai-94)
+    - Drop nametype_index for nova_dns when updating to v1.1.3
+nova-dns-0.4.0:
+    - Version bump
+    - Initial implementation of synchronization zones with nova
+    - Add utility to sync DNS database with actual state (Issue: altai-127)
+    - Added 'sync' API call and method stub to InstanceManager
+    - Simple instance manager: don't add duplicated records for instances
+    - Add dns_zone_address option (Issue: altai-94)
+    - Improve instance deletion (Issue: altai-129)
+    - Fix creation of NS record for Altai zones
+    - Introduce exception classes
+    - Improved exception handling
+    - Introducing InstanceManager
+    - auth: Fix admin role detection
+    - models: drop nametype_index
+    - Unify DNSManager.add interface
+    - Test: use local configuration file
+
 2013-04-26 Update altai-installer, focus, and keystone-ldap
 altai-installer-1.1.3:
     - setup-auth: Correctly setup focus configuration
